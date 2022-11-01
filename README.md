@@ -54,6 +54,20 @@
            <ul>
         <li><a href="https://github.com/IBM-EPBL/IBM-Project-4347-1658729356/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/DATA%20FLOW%20DIAGRAM">DATA FLOW DIAGRAM</a></li>
            <ul>
+           <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-4347-1658729356/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/SOLUTION%20REQUIREMENTS">SOLUTION REQUIREMENTS</a></li>
+           <ul>
+            <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-4347-1658729356/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/TECHNICAL%20ARCHITECTURE">TECHNICAL ARCHITECTURE</a></li>
+           <ul>
+            </ul>
+        </ul>
+        <li><a href="#-PLANNING-PHASE">PLANNING PHASE</a></li>
+        <ul>
+            <li><a href="#-PLANNING-PHASE">MILESTONE & ACTIVITY LIST</a></li>
+            <li><a href="#-PLANNING-PHASE">SPRINT DELIVERY PLAN</a></li>
+        </ul>
+  </ol>
     
 # 📝 PROJECT DESCRIPTION
 Having lots of skills but wondering which job will best suit you ? Don’t need to worry! we have come up with a skill recommender solution through which the fresher or the skilled person can login and find the jobs by using search option or they can directly interact with the chatbot and get their dream job.
@@ -132,3 +146,28 @@ To develop an end to end web application capable of displaying the current job o
 - [x] Milestone and Activity List
 - [x] Sprint Delivery plan
     
+    
+    
+    
+    
+    
+    
+    
+  <hr>
+
+## GITHUB LINKS FOR PROJECT TEAMS
+
+[Jegan T](https://github.com/jegansoftware) <br>
+[Gnanamoorthy R](https://github.com/Gnanamoorthy967)  <br>
+[Desikan E](https://github.com/DESIKAN10) <br>
+[Manikandan D](https://github.com/vijaymani54007)<br>
+
+
+<hr>
+📫 How to reach Us <a href = "mailto:gnanamoorthy967@gmail.com">Connect with Email</a>
+
+<hr>
+<div align="center">
+ <h5> | `Skill / Job Recommender Application` |</h5>
+
+<hr>
