@@ -22,6 +22,7 @@
     <li><a href="#-skills-required">SKILLS REQUIRED</a></li>
     <li><a href="#-TEAM-MEMBERS">TEAM MEMBERS</a></li>
     <li><a href="#-ASSIGNMENT-FINISHED">ASSIGNMENT FINISHED</a></li>
+    <li><a href="#-PENDING-ASSIGNMENT">PENDING ASSIGNMENTS</a></li>
      <ul>
         <li><a href="#-LINKS">LINKS</a></li>
         </ul>
@@ -106,7 +107,12 @@ To develop an end to end web application capable of displaying the current job o
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3 
 <hr> 
-    
+             
+  ## 📒 PENDING ASSIGNMENT 
+- [ ] ASSIGNMENT 4
+ <Hhr>      
+   
+   
  ## 🔗 LINKS
 
 | TEAM MEMBERS | FOLDER LINK    |
