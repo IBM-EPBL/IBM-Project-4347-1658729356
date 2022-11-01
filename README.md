@@ -62,10 +62,10 @@
            <ul>
             </ul>
         </ul>
-        <li><a href="#-PLANNING-PHASE">PLANNING PHASE</a></li>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-4347-1658729356/tree/main/Project%20Design%20%26%20Planning/Project%20planning">PLANNING PHASE</a></li>
         <ul>
-            <li><a href="#-PLANNING-PHASE">MILESTONE & ACTIVITY LIST</a></li>
-            <li><a href="#-PLANNING-PHASE">SPRINT DELIVERY PLAN</a></li>
+            <li><a href="https://github.com/IBM-EPBL/IBM-Project-4347-1658729356/tree/main/Project%20Design%20%26%20Planning/Project%20planning/Milestone%20%26%20Activity%20list">MILESTONE & ACTIVITY LIST</a></li>
+            <li><a href="https://github.com/IBM-EPBL/IBM-Project-4347-1658729356/tree/main/Project%20Design%20%26%20Planning/Project%20planning/Sprint%20Delivery%20plan">SPRINT DELIVERY PLAN</a></li>
         </ul>
   </ol>
     
