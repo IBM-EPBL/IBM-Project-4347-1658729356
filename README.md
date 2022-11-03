@@ -106,10 +106,11 @@ To develop an end to end web application capable of displaying the current job o
 - [x] ASSIGNMENT 1
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3 
+- [x] ASSIGNMENT 4
 <hr> 
              
   ## 📒 PENDING ASSIGNMENT 
-- [ ] ASSIGNMENT 4
+NULL
  <Hhr>      
    
    
