@@ -43,7 +43,7 @@
               <li><a href="https://github.com/IBM-EPBL/IBM-Project-4347-1658729356/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/SOLUTION_ARCHITECTURE">ARCHITECTURE</a></li>
         </ul>
     <ul>
-        <li><a href="https://github.com/IBM-EPBL/IBM-Project-4347-1658729356/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/PROPOSED%20SOLUTION">PROBLEM SOLUTION FIT</a></li>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-4347-1658729356/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/PROBLEM%20SOLUTION%20FIT">PROBLEM SOLUTION FIT</a></li>
         </ul>       
     <ul>
         <li><a href="https://github.com/IBM-EPBL/IBM-Project-4347-1658729356/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/PROPOSED%20SOLUTION">PROPOSED SOLUTION</a></li>
