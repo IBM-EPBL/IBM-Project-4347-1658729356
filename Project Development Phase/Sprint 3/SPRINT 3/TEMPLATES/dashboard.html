@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <style>
+    .rus{
+
+        border-radius: 0%
+    };
+
+    .black{
+      color:black;
+    }
+</style>
+
+</head>
+<body>
+
+<!-------========================================================-->
+<nav class="navbar navbar-inverse rus">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">Skill and Job Recommender</a>
+      </div>
+    
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Log out</a></li>
+      </ul>
+    </div>
+  </nav>
+<!-------========================================================-->
+
+<div class="container">
+  <ul class="nav nav-tabs">
+    <li class="active"><a data-toggle="tab" href="#home">Profile</a></li>
+    <li><a data-toggle="tab" href="#menu1">Eligibility Test</a></li>
+    <li><a data-toggle="tab" href="#menu2">Find Job</a></li>
+
+  </ul>
+
+  <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+      <h3>PROFILE</h3>
+      <hr>
+
+      <form>
+        <div class="alert alert-danger">
+        <div class="form-group">
+            <label for="name"><span clss="black">Name: </span></label>
+            <input type="text" class="form-control" id="name" value="Mahadevan">
+          </div>
+          <div class="form-group">
+            <label for="email"><span class="black">Email Address </span></label>
+            <input type="text" class="form-control" id="email" value="Mahadevan@gmaiil.com">
+          </div>
+
+          <div class="form-group">
+            <label for="email"><span class="black">Mobile No </span></label>
+            <input type="text" class="form-control" id="email" value="9003824096">
+          </div>
+
+          <div class="form-group">
+            <label for="quali"><span class="black">What is your Nationality </span></label>
+            <input type="text" class="form-control" id="quali" value="India">
+          </div>
+
+
+
+          <div class="form-group">
+            <label for="quali">What is your Qualification</label>
+            <input type="text" class="form-control" id="quali" value="BE">
+          </div>
+
+          <div class="form-group">
+            <label for="quali">What year did you complete your bachelor Degree?</label>
+            <input type="text" class="form-control" id="quali" value="2023"> 
+           </div>
+
+
+
+          <div class="form-group">
+            <label for="experience">How many years of work experience do you have ?</label>
+            <input type="text" class="form-control" id="experience" value="0">
+          </div>
+
+          <div class="form-group">
+            <label for="place">Where have you graduated high school degree ?</label>
+            <input type="text" class="form-control" id="place" value="Government high school Ariyalur">
+          </div>
+
+          <div class="form-group">
+            <label for="SSLC">What is your SSLC Percentage :</label>
+            <input type="text" class="form-control" id="SSLC" value="90">
+          </div>
+
+          <div class="form-group">
+            <label for="HSC">What is your HSC Percentage :</label>
+            <input type="text" class="form-control" id="HSC" value="90">
+          </div>
+
+          <div class="form-group">
+            <label for="degree">What is your Percentage in bachelor Degree:</label>
+            <input type="text" class="form-control" id="degree" value="90.5">
+          </div>
+
+          <textarea class="form-control" id="aboutyou" rows="3" placeholder="Write few words about yourself"></textarea> <br> <br>
+
+          <button type="submit" class="btn btn-primary  btn-success">Save changes</button> <br> <br>
+          </div>
+        </form>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div id="menu1" class="tab-pane fade">
+      <h3>Eligibility Test </h3> <hr>
+
+      <div class="alert alert-info">
+        <label>What function is used to display output on the screen?</label>
+      	<div class="radio">
+			  <label><input type="radio" name="print">printf()</label>
+			  </div>
+			  <div class="radio">
+			  <label><input type="radio" name="scanf">scanf()</label>
+			  </div>
+			  <div class="radio">
+			  <label><input type="radio" name="switch">switch</label>
+			  </div>
+      </div> <hr>
+
+      <div class="alert alert-info">
+        <label>What function is used to display output on the screen?</label>
+      	<div class="radio">
+			  <label><input type="radio" name="print">printf()</label>
+			  </div>
+			  <div class="radio">
+			  <label><input type="radio" name="scanf">scanf()</label>
+			  </div>
+			  <div class="radio">
+			  <label><input type="radio" name="switch">switch</label>
+			  </div>
+      </div> <hr>
+
+      <div class="alert alert-info">
+        <label>What function is used to display output on the screen?</label>
+      	<div class="radio">
+			  <label><input type="radio" name="print">printf()</label>
+			  </div>
+			  <div class="radio">
+			  <label><input type="radio" name="scanf">scanf()</label>
+			  </div>
+			  <div class="radio">
+			  <label><input type="radio" name="switch">switch</label>
+			  </div>
+      </div> <hr>
+
+      <div class="alert alert-info">
+        <label>What function is used to display output on the screen?</label>
+      	<div class="radio">
+			  <label><input type="radio" name="print">printf()</label>
+			  </div>
+			  <div class="radio">
+			  <label><input type="radio" name="scanf">scanf()</label>
+			  </div>
+			  <div class="radio">
+			  <label><input type="radio" name="switch">switch</label>
+			  </div>
+      </div> <hr>
+
+      <div class="alert alert-info">
+        <label>What function is used to display output on the screen?</label>
+      	<div class="radio">
+			  <label><input type="radio" name="print">printf()</label>
+			  </div>
+			  <div class="radio">
+			  <label><input type="radio" name="scanf">scanf()</label>
+			  </div>
+			  <div class="radio">
+			  <label><input type="radio" name="switch">switch</label>
+			  </div>
+      </div><hr>
+
+      <div class="alert alert-info"> 
+        <label>What function is used to display output on the screen?</label>
+      	<div class="radio">
+			  <label><input type="radio" name="print">printf()</label>
+			  </div>
+			  <div class="radio">
+			  <label><input type="radio" name="scanf">scanf()</label>
+			  </div>
+			  <div class="radio">
+			  <label><input type="radio" name="switch">switch</label>
+			  </div>
+      </div>
+
+		 <button type="submit" class="btn btn-primary  btn-success">Submit the test</button> <br> <br>
+  </div>
+
+  
+    <div id="menu2" class="tab-pane fade">
+      <h3>Find the job</h3> <hr>
+      <br>
+
+      <div class="container">
+      <!-------------------------------------------------------->
+      <form>
+			  <div class="input-group">
+				<input type="text" class="form-control" id="myInput" placeholder="Look for a job">
+				<div class="input-group-btn">
+				  <button class="btn btn-default" type="submit">
+					<i class="glyphicon glyphicon-search"></i>
+				  </button>
+				</div>
+			  </div>
+			</form> <br> <br>
+
+      <!-------------------------------------->
+
+     
+      <div style="width: 600px;">
+				<!-- Left-aligned -->
+				<div class="media">
+				  <div class="media-left">
+					<img src="images/img_avatar1.png" class="media-object" style="width:60px">
+				  </div>
+				  <div class="media-body">
+					<h4 class="media-heading">Java Developer</h4>
+          <h5 class="media-heading"> Company Name : JK Software Solution</h4>
+					<p>Job Location : Chennai</p>
+          <p> Salary : 45000</p>
+          <button type="submit" class="btn btn-primary  btn-success">Apply </button> <br> <hr>
+				  </div>
+				</div>
+			</div> 
+
+      <br>
+
+
+      <div style="width: 600px;">
+				<!-- Left-aligned -->
+				<div class="media">
+				  <div class="media-left">
+					<img src="images/img_avatar1.png" class="media-object" style="width:60px">
+				  </div>
+				  <div class="media-body">
+					<h4 class="media-heading">.NET Developer</h4>
+          <h5 class="media-heading"> Company Name : JK Software Solution</h4>
+					<p>Job Location : Chennai</p>
+          <p> Salary : 45000</p>
+          <button type="submit" class="btn btn-primary  btn-success">Apply </button> <br> <hr>
+				  </div>
+				</div>
+			</div>
+
+      <div style="width: 600px;">
+				<!-- Left-aligned -->
+				<div class="media">
+				  <div class="media-left">
+					<img src="images/img_avatar1.png" class="media-object" style="width:60px">
+				  </div>
+				  <div class="media-body">
+					<h4 class="media-heading">PHP Developer</h4>
+          <h5 class="media-heading"> Company Name : JK Software Solution</h4>
+					<p>Job Location : Chennai</p>
+          <p> Salary : 45000</p>
+          <button type="submit" class="btn btn-primary  btn-success">Apply </button> <br> <hr>
+				  </div>
+				</div>
+			</div>
+
+
+      <div style="width: 600px;">
+				<!-- Left-aligned -->
+				<div class="media">
+				  <div class="media-left">
+					<img src="images/img_avatar1.png" class="media-object" style="width:60px">
+				  </div>
+				  <div class="media-body">
+					<h4 class="media-heading">UX /UI Designer</h4>
+          <h5 class="media-heading"> Company Name : JK Software Solution</h4>
+					<p>Job Location : Chennai</p>
+          <p> Salary : 45000</p>
+          <button type="submit" class="btn btn-primary  btn-success">Apply </button> <br> <hr>
+				  </div>
+				</div>
+			</div>
+
+
+    </div>
+
+
+
+    
+  </div>
+</div>
+
+
+<script>
+  $(document).ready(function(){
+    $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#myDIV *").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+    });
+  });
+  </script>	
+
+</body>
+
+</html>
